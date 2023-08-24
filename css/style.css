@@ -12,3 +12,29 @@ header ul{
     list-style-type: none;
     color: #ABABAB;
 }
+#Selected {
+    color: #00b39b;
+}
+.n-select:hover {
+    color: #00b39b;
+}
+
+#top-div {
+    text-align: center;
+    margin-top: 10vh;
+}
+#top-div img {
+    height: 5vh;
+}
+#top-div h2 {
+    color: #00b39b;
+    font-size: 30pt;
+}
+#p-div-1 {
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    gap: 1vw;
+    text-align: left;
+    font-size: 14pt;
+}
