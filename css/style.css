@@ -1,0 +1,14 @@
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header img{
+    height: 5vh;
+}
+header ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    color: #ABABAB;
+}
